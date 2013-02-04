@@ -1,0 +1,15 @@
+1) Reiseplanlegger
+Et reiseplanleggersystem/app som lar deg søke i all offentlig transport i et område (evt land), samt tilby prisestimater for drosjeturer.
+
+2) Morgenrutinemaskin
+Det er problem å stå opp. Man rekker ikke alltid å lage frokost.
+Et system som kan igangsette frokost-prosessen etter du har stått opp slik at du kan dusje mens frokosten tilberedes automatisk.
+
+3) Fjernstyrt ovn
+Ovn som lar deg skru den av og på via internett. Sånn at man kan forhåndsvarme ovnen på vei hjem hvis man skal plukke opp frossenpizza eller noe sånt.
+
+4) Epostsystem
+Et epostsystem som sorterer eposten din etter egendefinerte mål for viktighet.
+
+5) Oversikt over gratis ting på gløs
+En tjeneste som gir deg oversikt over hvor og når det er gratis ting (som kaffe) og hente på gløs, og hvor.
