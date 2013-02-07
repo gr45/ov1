@@ -1,0 +1,28 @@
+Oppgave 1:
+Idé 1:
+Reiseplanlegger. Et system/app/ting som samlokaliserer alt av reiseplanlegging på tvers av landet, slik at man kan finne ut av hvordan man kommer seg fra Trondheim sentrum til Larvik kun ved å benytte ymse former lokaltransport.
+Idé 2:
+Oversikt over gratis ting på gløs.
+
+Oppgave 2:
+a-1)
+Hvilket problem løses?
+Hvordan?
+Kort beskrivelse av produkt- og tjenestekonseptet.
+
+a-2)
+Hvilke teknologiske utfordringer ligger det i å produsere/lansere produktet eller tjenesten? Vil man f.eks. måtte gjøre teknologiske gjennombrudd, eller holder det å sette sammen eksisterende produkter?
+
+b-1)
+Hvordan kan markedet overordnet segmenteres/inndeles? Kvantifiser markedsstørrelsen.
+Kort om inngangsbarrierer.
+
+b-2)
+Hvem er kunden? Beskriv kundenytten.
+Kort om konkurrenter og substitutter.
+
+c)
+Kort om forretningsmodell
+Beskriv kort hvilke aktiviteter i verdikjeden det er fornuftig at bedriften gjør selv, og hvilke som bør settes ut til andre aktører.
+Kort om økonomisk potensial
+Kort om finansieringsbehov og finansieringskilder
