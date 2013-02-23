@@ -1,0 +1,6 @@
+Oppgave 1: Odd
+a-1: Odd
+a-2: Gombos
+b-1: Sindre
+b-2: Audun
+c  : Anders
