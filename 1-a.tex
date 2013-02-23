@@ -1,0 +1,24 @@
+In this part, we continue with Idea #2 (``Reiseplanlegger1'').
+To recap, the system is intended to serve as everyone's go-to service when they need to travel from some place in Norway to another place in Norway, when the distance is too great to be considered within ``walking distance''.
+
+Simply put, our system makes planning one's travels easier.
+Life is an optimization problem. Anything that simplifies parts of it or frees up our time is arguably a solution to the problem of ``not having enough time''.
+More specifically, our system aims to solve the following problems that exist with the current model:
+\begin{enumerate}
+	\item{Proficient use of public transportation in some areas seem to require intricate arcane knowledge only possessed by those native to the area.}
+	\item{Information about available methods of transportation in an area is not readily available unless one knows where to look.}
+	\item{Current systems are segmented according to provider with little or no support for planning a trip outside any single provider's reach.}
+\end{enumerate}
+The first issue is solved as the system provides easy-to-understand information in the same format wherever our users are.
+People who have moved to or visited some place in Norway they've not been before might be familiar with this.
+The second issue is solved by offering this information through the system, regardless of where the user might be located.
+The third issue, which you might be familiar with if you've ever flown out of Trondheim\footnote{Where there's two different companies running a bus route to the airport, each listing their routes at different locations and of course neither are compatible with the regular bus system.},
+is also solved by the collecting of all this information in one database, allowing the system to search through all of it when looking for a viable travel route.
+
+The key thing here is that all this information -- in-land flight schedules, bus routes, train departures, trams, ferry schedules throughout the country -- is all gathered up into one place, lowering the entry level for those who want to use non-private transportation.
+The current system is like having multiple dictionaries, with the words spread randomly between them. Why would anyone want that?
+
+The system itself, as presented to the user, is in its most simple form just two fields -- into which the user enters his or hers place of departure and desired destination -- and a button that is pushed after the information is entered.
+A suitable route is then computed by the system and presented to the user.
+The route is presented in the form of a map, as well as a series of concisely formulated steps the user would have to undertake in order to reach his or her destination.
+This could be an app, a website or a telephone-based service. The core concept is that the user provides the system with a place of departure and desired destination, and is given a route to get there which employs as much non-private transportation as possible.
