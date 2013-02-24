@@ -1,0 +1,16 @@
+<b>Marked segmentation and quantifying of potensial markedsize</b>
+In general we can divide the marked for our trip planner into 3 groups. Those who are going to use the trip planner a lot, people often traveling to new places. Those who are going to use the trip planner to some times, some people do not traver very much or travel the same route often and have no need to check the routeplanner very often. The last group is the tourists coming from other countries.
+These groups are also dividable into other groups as well. Some people are willing to pay more for their tripduration to be shorter. This is generally people with a lot of money and people traveling at their employers expence. Other people may want the trip to be as cheap as possible. This could be people with very limited funds, like students.
+Most people will probably want a balance between cost and traveltime.
+For now we are looking into a nationwide trip planner, connecting other existing regional trip planners into one functional product. This will make it easier within different regions and in between different regions.
+The target group of customers will be those traveling domestic. This can be both norwegian citizens as well as foreign tourists. This will help them plan the trip both costwise and timewise.
+As most people traveling domestic at some point, whether it is a long trip or just a short trip, will need to look up the timetable and plan their trip, this service will be needed by everybody. Our potential customerbase is therefor everyone traveling by bus, train, tram, boat, plane and all other transportation in Norway. This will essentially include everyone.
+Even if one person is only traveling the same distance time after time after time, he/she will have to look up updated schedule from time to time. Maybe there has been changes in the timetable or another alternative has come up.
+
+<b>Entrybarriers</b>
+Trip planners are no new invention and there exists a lot of alternatives like Ruter, AtB, Skyss and so on. The problem with the existing trip planners are that they are only made for specific regions.
+Because there already exists different trip planners we can learn from them and improve on their features. This will make it easier to come up with a better system that can deliver a better result.
+A trip planner will typically be implemented as a website complimented with a mobile app for mobile devices.
+Websites and mobile apps are relatively easy to make, which means that there is a low entrybarrier for development of the product and also easy to use for customers that want to try out the system.
+As a new trip planner it is important to let people know about the new alternative. A lot of resources will be needed for a nationwide campaign which are needed since all the potential customers are all over the country.
+Another difficulty is credibility, to make people trust the new trip planner. Most public transportationcompanies have their own trip planner. It is important that the customer can trust that the information provided by our trip planner is just as good, or better, as the information provided by existing trip planners. It is also essential that the route being calculated is optimal to the wishes for the customer. 
