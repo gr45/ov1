@@ -1,4 +1,4 @@
-\subsection{Market segmentation and quantifying potensial market size}
+\subsection{Market segmentation and quantifying potential market size}
 In general we can divide the market for our trip planner into three groups:
 \begin{enumerate}
 	\item{Those who are going to use the trip planner a lot; people who often travel to new places.}
