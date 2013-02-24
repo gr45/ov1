@@ -1,3 +1,3 @@
 all:
-	pdflatex *.tex
+	pdflatex ov1.tex
 	rm -f *.log *.out *.aux
